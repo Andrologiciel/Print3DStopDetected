@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-![Electronic diagram](Andrologiciel/Print3DStopDetected/IR.png)
+![Electronic diagram](Print3DStopDetected/IR.png)
 
 # Header 1
 ## Header 2
